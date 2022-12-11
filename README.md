@@ -7,8 +7,7 @@ Installation
 You should add an instruction how this project to be used, installed, run, edited in others� machine.
 To Use this project, you will need to clone our repo by issuing the command:
 
-git clone https://github.com/sdcomputerdude/aa1-521
-
+git clone https://www.github.com/sandiegocomputerdude/aa1-521.git
 Project Intro/Objective
    Project Intro/Objective The main purpose of this project is to recognize prepared food dishes or restaurant menu items using computer vision from a dataset we created. We will try several methods and compare results.
 
