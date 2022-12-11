@@ -1,48 +1,42 @@
-# AA1-521
-Food Image Classification Using Random Forest
+Food Image Identification via 2 Methodologies
+This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
-
--- Project Status: Active
+-- Project Status: Completed
 
 Installation
-To use this project, you will need to clone our GitHub repository. For full instructions on cloning GitHub Repositories, go here:
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-At the propmpt type:
+You should add an instruction how this project to be used, installed, run, edited in others� machine.
+To Use this project, you will need to clone our repo by issuing the command:
 
-git clone https://<OUR_REPO><enter>
+git clone https://github.com/sdcomputerdude/aa1-521
 
 Project Intro/Objective
-The main purpose of this project is to recognize prepared food dishes or restaurant menu items using computer vision from a dataset we created. 
-
-
-
-
+   Project Intro/Objective The main purpose of this project is to recognize prepared food dishes or restaurant menu items using computer vision from a dataset we created. We will try several methods and compare results.
 
 Partner(s)/Contributor(s)  
-Safiya Afrin,Aaron McDonald,  and Mehul Patel
-
+Safiya Afrin
+Mehul Patel
+Aaron McDonald
 
 Methods Used
-A few examples are:
-* Inferential Statistics
-* NLP
 * Computer Vision
 * Machine Learning
 * Deep Learning
+* Ethics for AI
 * Data Visualization
 * Cloud Computing 
 * Data Manipulation
-* Case Studies 
+
 Technologies
-A few examples are:
-* Python
-
-
+   
+* Python CV
 
 Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+   The main purpose of this project is to recognize prepared food dishes or restaurant menu items using computer vision from a dataset we created. We will try several methods and compare results. For a full product description Please read the FilaProject.jpg file uploaded to the documents folder of our repository.
+
 License
-You can add under what license your project is. As a good practice, add LICENSE file in your project folder as well. 
+This Project is licensed under the GNU General Public License v3.0. See out LICENCE.md if you are unfamiliar with this license
+
 Acknowledgments
-You can mention and thank your professors and those who technically helped you during the project.
+Thank you, USD for providing us with this quality education in an online format. 
+
+
